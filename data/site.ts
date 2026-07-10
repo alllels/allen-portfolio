@@ -4,10 +4,12 @@ export const hero = {
   subtitle:
     "Building my future through curiosity, technology, and perseverance.",
 
-  badges: [
-    "Student",
-    "Developer",
+  roles: [
+    "Future Software Engineer",
     "Entrepreneur",
     "Chess Player",
+    "Lifelong Learner",
   ],
+
+  buttonText: "Explore my journey",
 };
