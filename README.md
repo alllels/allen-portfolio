@@ -20,9 +20,9 @@ Rather than being just a portfolio, this website tells the story of who I am, wh
 
 ### Version 1.0
 - [x] Project setup
-- [ ] Hero section
-- [ ] Navigation
-- [ ] Responsive layout
+- [x] Hero section
+- [x] Navigation
+- [x] Responsive layout
 
 ### Version 1.1
 - [ ] My Story
