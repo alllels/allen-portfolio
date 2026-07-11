@@ -5,7 +5,7 @@ interface Props {
   id?: string;
 }
 
-export default function Projects({ id }: Props) {
+export default function Future({ id }: Props) {
   return (
     <section
       id={id}
